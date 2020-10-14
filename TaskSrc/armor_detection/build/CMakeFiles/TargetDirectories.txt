@@ -1,0 +1,3 @@
+/home/qiyu/VSCodeOs/VSCoding_2/build/CMakeFiles/rebuild_cache.dir
+/home/qiyu/VSCodeOs/VSCoding_2/build/CMakeFiles/armordetection_result_exe.dir
+/home/qiyu/VSCodeOs/VSCoding_2/build/CMakeFiles/edit_cache.dir
